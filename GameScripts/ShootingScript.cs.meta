@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 273909aaffeac394e9b98398ac7628ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - weaponModel: {instanceID: 0}
+  - shieldHitParticle: {instanceID: 0}
+  - gunAnimator: {instanceID: 0}
+  - currentWeaponModel: {instanceID: 0}
+  - gunPos: {instanceID: 0}
+  - gunPosHolder: {instanceID: 0}
+  - headHolder: {instanceID: 0}
+  - curGun: {instanceID: 0}
+  - ammoReserveText: {instanceID: 0}
+  - ammunitionText: {instanceID: 0}
+  - reloadText: {instanceID: 0}
+  - weaponNameText: {instanceID: 0}
+  - body: {instanceID: 0}
+  - crosshair: {instanceID: 0}
+  - ammoUIHolder: {instanceID: 0}
+  - smallAmmo: {instanceID: 0}
+  - largeAmmo: {instanceID: 0}
+  - shotgunAmmo: {instanceID: 0}
+  - specialAmmo: {instanceID: 0}
+  - abManager: {instanceID: 0}
+  - meleeScript: {instanceID: 0}
+  - hitSound: {fileID: 8300000, guid: 5848af77324c3ed45ae70a3128fd7c52, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
